@@ -1,0 +1,27 @@
+[
+    {
+        "name": "sani",
+        "username": "sani333",
+        "password": "253654",
+        "email": "cindy.kirlin@ethereal.email",
+        "address": "Dhaka",
+        "item": [
+        ]
+    },
+    {
+        "name": "Mahtab",
+        "username": "sani2238",
+        "password": "222222222",
+        "email": "cindy.kirlin@ethereal2.email",
+        "address": "Dhaka",
+        "item": []
+    },
+    {
+        "name": "Mahtab",
+        "username": "sani_san",
+        "password": "222222222",
+        "email": "cindy.kirlin@ethereal3.email",
+        "address": "Dhaka",
+        "item": []
+    }
+]
